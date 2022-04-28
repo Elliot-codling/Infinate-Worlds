@@ -1,0 +1,7 @@
+                            - in progress -
+
+This is where an automatic error report will be stored incase the program crashes
+It will report back:
+- the line that caused the error
+- ALL variables
+- type of error
