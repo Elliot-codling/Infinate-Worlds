@@ -6,3 +6,5 @@ AD / arrow keys for movement
 
 Objective:
 Nothing
+
+This is a legacy project and has now been archived.
